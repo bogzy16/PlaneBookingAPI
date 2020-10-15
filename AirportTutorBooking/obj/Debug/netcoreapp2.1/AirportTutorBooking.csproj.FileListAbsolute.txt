@@ -1,0 +1,17 @@
+C:\Users\Bogzy\source\repos\AirportTutorBooking\AirportTutorBooking\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Bogzy\source\repos\AirportTutorBooking\AirportTutorBooking\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Bogzy\source\repos\AirportTutorBooking\AirportTutorBooking\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Bogzy\source\repos\AirportTutorBooking\AirportTutorBooking\bin\Debug\netcoreapp2.1\AirportTutorBooking.deps.json
+C:\Users\Bogzy\source\repos\AirportTutorBooking\AirportTutorBooking\bin\Debug\netcoreapp2.1\AirportTutorBooking.runtimeconfig.json
+C:\Users\Bogzy\source\repos\AirportTutorBooking\AirportTutorBooking\bin\Debug\netcoreapp2.1\AirportTutorBooking.runtimeconfig.dev.json
+C:\Users\Bogzy\source\repos\AirportTutorBooking\AirportTutorBooking\bin\Debug\netcoreapp2.1\AirportTutorBooking.dll
+C:\Users\Bogzy\source\repos\AirportTutorBooking\AirportTutorBooking\bin\Debug\netcoreapp2.1\AirportTutorBooking.pdb
+C:\Users\Bogzy\source\repos\AirportTutorBooking\AirportTutorBooking\obj\Debug\netcoreapp2.1\AirportTutorBooking.csprojAssemblyReference.cache
+C:\Users\Bogzy\source\repos\AirportTutorBooking\AirportTutorBooking\obj\Debug\netcoreapp2.1\AirportTutorBooking.RazorAssemblyInfo.cache
+C:\Users\Bogzy\source\repos\AirportTutorBooking\AirportTutorBooking\obj\Debug\netcoreapp2.1\AirportTutorBooking.RazorAssemblyInfo.cs
+C:\Users\Bogzy\source\repos\AirportTutorBooking\AirportTutorBooking\obj\Debug\netcoreapp2.1\AirportTutorBooking.AssemblyInfoInputs.cache
+C:\Users\Bogzy\source\repos\AirportTutorBooking\AirportTutorBooking\obj\Debug\netcoreapp2.1\AirportTutorBooking.AssemblyInfo.cs
+C:\Users\Bogzy\source\repos\AirportTutorBooking\AirportTutorBooking\obj\Debug\netcoreapp2.1\AirportTutorBooking.RazorTargetAssemblyInfo.cache
+C:\Users\Bogzy\source\repos\AirportTutorBooking\AirportTutorBooking\obj\Debug\netcoreapp2.1\AirportTutorBooking.dll
+C:\Users\Bogzy\source\repos\AirportTutorBooking\AirportTutorBooking\obj\Debug\netcoreapp2.1\AirportTutorBooking.pdb
+C:\Users\Bogzy\source\repos\AirportTutorBooking\AirportTutorBooking\bin\Debug\netcoreapp2.1\AirportTutorBooking.xml
